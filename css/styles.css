@@ -1,10 +1,12 @@
 
 
-/*div{
+/*
+div{
 	border: 1px solid yellow;
 }*/
 
-/*.content{
+/*
+.content{
 	color:white;
 	text-align: center;
 }
@@ -17,7 +19,8 @@
 .blue{
  background: blue;
  height: 100px;
-} */
+} 
+*/
 
 body {
 	padding-top: 70px;
